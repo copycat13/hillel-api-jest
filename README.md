@@ -1,1 +1,1 @@
-# hillel-aqa-jest
+# hillel-api-jest
