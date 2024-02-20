@@ -1,16 +1,20 @@
 {
-  "name": "hillel-api-jest",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "axios": "^1.6.7",
-    "jest": "^29.7.0",
-    "prettier": "3.2.5"
-  }
+   "name": "hillel-api-jest",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "test": "jest"
+   },
+   "author": "",
+   "license": "ISC",
+   "devDependencies": {
+      "axios": "^1.6.7",
+      "jest": "^29.7.0",
+      "prettier": "3.2.5"
+   },
+   "dependencies": {
+      "dotenv": "^16.4.4"
+   }
 }
+
